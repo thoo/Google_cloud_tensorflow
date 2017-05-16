@@ -17,7 +17,7 @@ fi
 END
 
 ## Update and upgrade ubuntu
-sudo apt-get update && sudo apt-get -y upgrade
+#sudo apt-get update && sudo apt-get -y upgrade
 
 ## Launch Jupyter
 ##sudo jupyter notebook --ip 0.0.0.0 --port 8888 --allow-root
